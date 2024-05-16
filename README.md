@@ -1,7 +1,7 @@
 # TO KNOW
-ITS BASIC THING
-OPEN TO SUGGESTION / REQUEST
-Script aren't perfect and can contain bug
+## ITS BASIC THING
+## OPEN TO SUGGESTION / REQUEST
+## Script aren't perfect and can contain bug
 
 
 # Programs description
